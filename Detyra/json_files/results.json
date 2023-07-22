@@ -1,0 +1,82 @@
+[
+    {
+        "team": "Drita",
+        "matches": 19,
+        "wins": 11,
+        "draws": 4,
+        "looses": 4,
+        "points": 37
+    },
+    {
+        "team": "Gjilani",
+        "matches": 18,
+        "wins": 9,
+        "draws": 8,
+        "looses": 1,
+        "points": 35
+    },
+    {
+        "team": "Ballkani",
+        "matches": 18,
+        "wins": 9,
+        "draws": 6,
+        "looses": 3,
+        "points": 33
+    },
+    {
+        "team": "Llapi",
+        "matches": 18,
+        "wins": 8,
+        "draws": 5,
+        "looses": 5,
+        "points": 29
+    },
+    {
+        "team": "Prishtina",
+        "matches": 18,
+        "wins": 6,
+        "draws": 6,
+        "looses": 6,
+        "points": 24
+    },
+    {
+        "team": "Drenica",
+        "matches": 17,
+        "wins": 6,
+        "draws": 2,
+        "looses": 9,
+        "points": 20
+    },
+    {
+        "team": "Malisheva",
+        "matches": 18,
+        "wins": 5,
+        "draws": 4,
+        "looses": 9,
+        "points": 19
+    },
+    {
+        "team": "Dukagjini",
+        "matches": 18,
+        "wins": 3,
+        "draws": 9,
+        "looses": 6,
+        "points": 18
+    },
+    {
+        "team": "Ulpiana",
+        "matches": 18,
+        "wins": 4,
+        "draws": 6,
+        "looses": 8,
+        "points": 18
+    },
+    {
+        "team": "Feronikeli",
+        "matches": 18,
+        "wins": 3,
+        "draws": 2,
+        "looses": 13,
+        "points": 11
+    }
+]

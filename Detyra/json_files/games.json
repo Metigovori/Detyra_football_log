@@ -1,0 +1,542 @@
+[
+    {
+        "t1": "Gjilani",
+        "t2": "Dukagjini",
+        "week": "3",
+        "result": "0-0"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Ulpiana",
+        "week": "5",
+        "result": "2-3"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Llapi",
+        "week": "7",
+        "result": "2-1"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Ballkani",
+        "week": "9",
+        "result": "1-1"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Drenica",
+        "week": "10",
+        "result": "2-1"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Feronikeli",
+        "week": "11",
+        "result": "1-0"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Prishtina",
+        "week": "13",
+        "result": "1-1"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Drita",
+        "week": "15",
+        "result": "1-0"
+    },
+    {
+        "t1": "Gjilani",
+        "t2": "Malisheva",
+        "week": "17",
+        "result": "3-1"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Feronikeli",
+        "week": "1",
+        "result": "2-1"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Llapi",
+        "week": "2",
+        "result": "0-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Ballkani",
+        "week": "4",
+        "result": "0-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Gjilani",
+        "week": "6",
+        "result": "0-2"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Malisheva",
+        "week": "7",
+        "result": "1-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Prishtina",
+        "week": "8",
+        "result": "0-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Malisheva",
+        "week": "12",
+        "result": "1-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Drenica",
+        "week": "14",
+        "result": "1-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Dukagjini",
+        "week": "16",
+        "result": "4-0"
+    },
+    {
+        "t1": "Drita",
+        "t2": "Ulpiana",
+        "week": "18",
+        "result": "3-1"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Dukagjini",
+        "week": "1",
+        "result": "2-2"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Ulpiana",
+        "week": "3",
+        "result": "3-2"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Llapi",
+        "week": "5",
+        "result": "2-0"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Feronikeli",
+        "week": "7",
+        "result": "0-0"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Drenica",
+        "week": "8",
+        "result": "3-2"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Prishtina",
+        "week": "11",
+        "result": "2-0"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Drita",
+        "week": "12",
+        "result": "2-0"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Malisheva",
+        "week": "15",
+        "result": "2-0"
+    },
+    {
+        "t1": "Ballkani",
+        "t2": "Gjilani",
+        "week": "18",
+        "result": "0-1"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Ulpiana",
+        "week": "1",
+        "result": "1-1"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Feronikeli",
+        "week": "3",
+        "result": "0-2"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Malisheva",
+        "week": "4",
+        "result": "0-3"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Drenica",
+        "week": "6",
+        "result": "1-1"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Dukagjini",
+        "week": "8",
+        "result": "1-0"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Drita",
+        "week": "11",
+        "result": "1-3"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Ballkani",
+        "week": "14",
+        "result": "4-1"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Gjilani",
+        "week": "16",
+        "result": "0-0"
+    },
+    {
+        "t1": "Llapi",
+        "t2": "Prishtina",
+        "week": "18",
+        "result": "3-2"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Ballkani",
+        "week": "2",
+        "result": "0-1"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Gjilani",
+        "week": "4",
+        "result": "1-1"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Ulpiana",
+        "week": "7",
+        "result": "1-1"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Llapi",
+        "week": "9",
+        "result": "1-2"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Malisheva",
+        "week": "10",
+        "result": "2-1"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Drenica",
+        "week": "12",
+        "result": "1-0"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Dukagjini",
+        "week": "14",
+        "result": "0-0"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Feronikeli",
+        "week": "15",
+        "result": "2-0"
+    },
+    {
+        "t1": "Prishtina",
+        "t2": "Drita",
+        "week": "17",
+        "result": "0-1"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Gjilani",
+        "week": "1",
+        "result": "1-1"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Prishtina",
+        "week": "3",
+        "result": "2-1"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Drita",
+        "week": "5",
+        "result": "0-2"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Feronikeli",
+        "week": "9",
+        "result": "4-0"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Dukagjini",
+        "week": "11",
+        "result": "2-0"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Ulpiana",
+        "week": "13",
+        "result": "0-1"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Llapi",
+        "week": "15",
+        "result": "3-5"
+    },
+    {
+        "t1": "Drenica",
+        "t2": "Ballkani",
+        "week": "17",
+        "result": "0-1"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Prishtina",
+        "week": "1",
+        "result": "1-1"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Drita",
+        "week": "3",
+        "result": "0-1"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Feronikeli",
+        "week": "5",
+        "result": "1-0"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Ballkani",
+        "week": "6",
+        "result": "0-0"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Gjilani",
+        "week": "8",
+        "result": "1-1"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Ulpiana",
+        "week": "11",
+        "result": "1-2"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Llapi",
+        "week": "13",
+        "result": "0-1"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Drenica",
+        "week": "16",
+        "result": "2-0"
+    },
+    {
+        "t1": "Malisheva",
+        "t2": "Dukagjini",
+        "week": "18",
+        "result": "2-2"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Drenica",
+        "week": "2",
+        "result": "1-2"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Prishtina",
+        "week": "5",
+        "result": "1-2"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Drita",
+        "week": "7",
+        "result": "2-1"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Malisheva",
+        "week": "9",
+        "result": "2-1"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Ballkani",
+        "week": "10",
+        "result": "0-0"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Gjilani",
+        "week": "12",
+        "result": "1-1"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Feronikeli",
+        "week": "13",
+        "result": "1-0"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Ulpiana",
+        "week": "15",
+        "result": "1-1"
+    },
+    {
+        "t1": "Dukagjini",
+        "t2": "Llapi",
+        "week": "17",
+        "result": "0-0"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Malisheva",
+        "week": "2",
+        "result": "1-3"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Drenica",
+        "week": "4",
+        "result": "0-1"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Dukagjini",
+        "week": "6",
+        "result": "0-0"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Drita",
+        "week": "9",
+        "result": "1-1"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Llapi",
+        "week": "10",
+        "result": "0-6"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Ballkani",
+        "week": "12",
+        "result": "2-1"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Gjilani",
+        "week": "14",
+        "result": "1-2"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Prishtina",
+        "week": "16",
+        "result": "0-3"
+    },
+    {
+        "t1": "Ulpiana",
+        "t2": "Feronikeli",
+        "week": "17",
+        "result": "0-0"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Gjilani",
+        "week": "2",
+        "result": "0-1"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Dukagjini",
+        "week": "4",
+        "result": "1-0"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Prishtina",
+        "week": "6",
+        "result": "0-4"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Ulpiana",
+        "week": "8",
+        "result": "1-0"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Drita",
+        "week": "10",
+        "result": "0-2"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Llapi",
+        "week": "12",
+        "result": "0-2"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Malisheva",
+        "week": "14",
+        "result": "0-1"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Ballkani",
+        "week": "16",
+        "result": "0-1"
+    },
+    {
+        "t1": "Feronikeli",
+        "t2": "Drenica",
+        "week": "18",
+        "result": "0-2"
+    }
+]
